@@ -1,0 +1,12 @@
+4-Modeling/unified_test
+4-Modeling/merged_train
+4-Modeling/sub_final.csv
+4-Modeling/checkpoint
+4-Modeling/lstm_model.index
+4-Modeling/lstm_model.data-00000-of-00001
+4-Modeling/train_model.py
+4-Modeling/PrototipoLSTM.ipynb
+data/*
+unknown-0.0-py31_0.tar.bz2
+=2.4.2
+
